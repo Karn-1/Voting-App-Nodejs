@@ -1,4 +1,4 @@
-# Online Voting System API
+#  Voting System API
 
 A simple REST API for an online voting system where voters can register, log in, vote for candidates, and view results. Admins can manage candidates.
 
